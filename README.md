@@ -1,3 +1,15 @@
-# data-analytics-project-template
+### To do list
 
-data analytics template
+---
+
+[ ] task 1  
+[x] task 2  
+[ ] task 3  
+~[x] task 4~
+
+### Change log
+
+---
+
+- 2024-11-13 ajd added new items
+- 2024-11-10 ajd deleted old items
